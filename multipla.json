@@ -1,0 +1,32 @@
+[
+    {
+        "question": "Qual é a capital do Brasil?",
+        "tipo": "multipla_escolha",
+        "opcoes": ["Rio de Janeiro", "Brasília", "São Paulo"],
+        "answer": "Brasília"
+    },
+    {
+        "question": "Qual planeta é conhecido como o Planeta Vermelho?",
+        "tipo": "multipla_escolha",
+        "opcoes": ["Marte", "Júpiter", "Saturno"],
+        "answer": "Marte"
+    },
+    {
+        "question": "Qual é o maior oceano do mundo?",
+        "tipo": "multipla_escolha",
+        "opcoes": ["Oceano Atlântico", "Oceano Índico", "Oceano Pacífico"],
+        "answer": "Oceano Pacífico"
+    },
+    {
+        "question": "Qual é o resultado de 7 x 8?",
+        "tipo": "multipla_escolha",
+        "opcoes": ["54", "56", "64"],
+        "answer": "56"
+    },
+    {
+        "question": "Quem pintou a Mona Lisa?",
+        "tipo": "multipla_escolha",
+        "opcoes": ["Leonardo da Vinci", "Michelangelo", "Raphael"],
+        "answer": "Leonardo da Vinci"
+    }
+]

@@ -1,0 +1,52 @@
+[
+  {
+      "question": "Qual é a capital do Brasil?",
+      "tipo": "texto",
+      "answer": "Brasília"
+  },
+  {
+      "question": "Qual é o maior planeta do Sistema Solar?",
+      "tipo": "texto",
+      "answer": "Júpiter"
+  },
+  {
+      "question": "Quem escreveu 'Dom Quixote'?",
+      "tipo": "texto",
+      "answer": "Miguel de Cervantes"
+  },
+  {
+      "question": "Qual é a fórmula química da água?",
+      "tipo": "texto",
+      "answer": "H2O"
+  },
+  {
+      "question": "Quem pintou a Mona Lisa?",
+      "tipo": "texto",
+      "answer": "Leonardo da Vinci"
+  },
+  {
+      "question": "Qual é o elemento químico com símbolo 'O'?",
+      "tipo": "texto",
+      "answer": "Oxigênio"
+  },
+  {
+      "question": "Qual país é conhecido como a terra do sol nascente?",
+      "tipo": "texto",
+      "answer": "Japão"
+  },
+  {
+      "question": "Quantos lados tem um hexágono?",
+      "tipo": "texto",
+      "answer": "6"
+  },
+  {
+      "question": "Quem é conhecido como o pai da computação?",
+      "tipo": "texto",
+      "answer": "Charles Babbage"
+  },
+  {
+      "question": "Qual é a velocidade da luz no vácuo?",
+      "tipo": "texto",
+      "answer": "300.000 km/s"
+  }
+]
